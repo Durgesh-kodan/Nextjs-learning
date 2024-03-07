@@ -26,8 +26,8 @@ const HeroSection = () => {
           className="mt-4 font-normal text-base md:text-lg
             text-neutral-300 max-w-lg mx-auto"
         >
-          Dive into the comprehensive world of music learn about as much as you
-          can by gaining knowledge through our music courses & start your
+          Dive into the comprehensive world of music and learn about as much as you
+          can by gaining knowledge through our different music courses that can help you greatly & start your
           musical journey today.
         </p>
         <div className="mt-4">
